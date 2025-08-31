@@ -1,16 +1,28 @@
-# bon_demo
+# Reward Screen App
 
-A new Flutter project.
+This is a Flutter app that demonstrates a reward screen with credit card bill details. The app features a modern UI with animations and dynamic content.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📹 Demo
 
-A few resources to get you started if this is your first Flutter project:
+Check out the demo of the app below:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[![Watch the video](https://user-images.githubusercontent.com/placeholder-image.png)](https://www.loom.com/share/851a0a29c87b4fd1824fb72d21bb076d?sid=63884fa8-d71d-4214-be1e-2794064ab693)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Features
+
+- 🎨 Modern UI with gradient designs
+- 💳 Credit card bill details with dynamic layouts
+- 📅 Due date and status badges
+- 🎉 Reward animations with confetti effects
+
+---
+
+## 🛠️ Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
